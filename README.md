@@ -11,10 +11,12 @@ I publish my exercises here and update this page as I learn.
 - Counters, totals, largest and smallest value
 - `continue`, `break`, `in` and `join()`
 - Functions with parameters and `return`
+- Functions with lists: max/min, counting, filtering, removing duplicates, frequency count, second largest
+- Returning multiple values
 
 ## Folders
-- `week-01-02-basics-lists-loops/` first programs
-- `week-03-functions/` functions and return values
+- `week-01-02-basics-lists-loops/` first programs, lists, slicing and loops
+- `week-03-functions/` functions and return values, and functions that work with lists
 
 ## Tools
 Python 3.14, VS Code, Git, GitHub
